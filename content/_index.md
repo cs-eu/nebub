@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Reshaping Robotic Education
+      text: Nebub – Education, Experience, Everything
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: robot-children.png
           filters:
             brightness: 0.5
           size: cover
@@ -45,16 +45,14 @@ sections:
       items:
         - statistic: "1M+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Satisfied Users
+        - statistic: "10M+"
           description: |
-            GitHub stars  
+            Dollars Founding
             since 2016
         - statistic: "3k+"
           description: |
-            Discord community  
-            for support
+            Supporters
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
